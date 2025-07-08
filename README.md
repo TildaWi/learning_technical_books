@@ -1,14 +1,14 @@
 # 📖 Learning Technical Books
 > 기술 서적을 읽고 배운 내용을 기록하는 개인 아카이빙 레포지토리입니다.  
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 ## 🌟 Recommendation
 | ![Clean Code](https://covers.openlibrary.org/b/id/7984916-L.jpg) | ![DDD](https://covers.openlibrary.org/b/id/7984901-L.jpg) | ![BigQuery](https://covers.openlibrary.org/b/id/7984895-L.jpg) |
 |:---------------------------------------------------------------:|:-----------------------------------------------------------:|:---------------------------------------------------------------:|
 | **제목**<br>제목                         | **제목**<br>제목               | **제목**<br>제목                  |
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 ## 📚 Books
 | 📖 책 이름                           | 🗓️ 시작일     | 🗓️ 완료일    | 📘 상태    |
@@ -17,7 +17,7 @@
 | 그림으로 배우는 구글 클라우드 101      | 예정          |               | ⬜ 예정     |
 | 캐글 메달리스트가 알려주는 캐글 노하우 | 예정          |               | ⬜ 예정     |
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 ## 🏷️ Rules
 1. 각 **챕터별로 요약(summary), 실습(practice), 회고(reflection)** 를 작성
@@ -25,7 +25,7 @@
 3. 챕터 단위 학습 완료 후 블로그에 응용 실습 업로드
 4. 이해가 어려운 내용은 `issues`에 기록 후 해결
 
----
+<br/><br/><br/><br/>
 
 ## 📝 Blog
 책 기반 응용 실습은 [📓 Tistory Blog](https://yourblog.tistory.com) 에 업로드합니다.
